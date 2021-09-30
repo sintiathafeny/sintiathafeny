@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sintiathafeny
-- 🌱 I’m currently learning Python, HTML, CSS and Java.
+- 🌱 I’m currently learning Javascript, HTML, CSS and python.
 - 📫 Reach me on sintiathafeny@outlook.com
 
 <!---
