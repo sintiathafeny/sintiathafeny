@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sintiathafeny
 - 🌱 I’m currently learning Javascript, HTML, CSS and python.
 - 📫 Reach me on sintiathafeny@outlook.com
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+
 <div align="center">
   <a href="https://github.com/sintiathafeny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -24,6 +24,6 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/sintia-thafeny" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/sintiathafeny/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafabellerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
